@@ -1,12 +1,9 @@
-# Disney+ clone
+
 
 ### check it out [here](https://disney-plus-yousaf.vercel.app/)
 
 # Disney-Hotstar
 
-# Disney-Hotstar
-
-# Disney+ Hotstar UI Clone
 
 This project was bootstrapped with Create React App.
 
